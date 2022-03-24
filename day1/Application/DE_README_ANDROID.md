@@ -100,15 +100,15 @@ Milligram ist eine lustige kleine App, ähnlich wie die fotobasierten sozialen M
 
 - Öffne deine persönliche Milligram-Website auf deinem Telefon und erkunde deren Inhalt
 - Bearbeite dein Profil in der App, um dein eigenes GitHub-Profilbild in der App anzuzeigen
-  ![Zum Homescreen hinzufügen 1](images/android/FrontendHomescreen0.jpg)
+  [Zum Homescreen hinzufügen 1](images/android/FrontendHomescreen0.jpg | width=100)
 
 ### Die App zum Homescreen hinzufügen
 
 Auf modernen Handys kann man Webapplikationen auf dem Homescreen "installieren", damit sie leichter zugänglich sind und um sie mehr wie eine App aus den offiziellen Appstores aussehen zu lassen.
 
 - Öffne das Browsermenü, um die Website zu deinem Startbildschirm hinzuzufügen:
-  ![Zum Homescreen 2 hinzufügen](images/android/FrontendHomescreen1.jpg)
-  ![Zum Homescreen 2 hinzufügen](images/android/FrontendHomescreen2.jpg)
+  [Zum Homescreen 2 hinzufügen](images/android/FrontendHomescreen1.jpg | width=100)
+  [Zum Homescreen 2 hinzufügen](images/android/FrontendHomescreen2.jpg | width=100)
 - Jetzt kannst du die Website wie eine normale App vom Homescreen deines Telefons aus öffnen.
 
 ## Milligram App Backend
